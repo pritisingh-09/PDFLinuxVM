@@ -34,6 +34,7 @@ This project must be built on a **Linux system**.
 Clone and set up the environment:
 
 ```bash
+
 git clone https://github.com/pritisingh-09/PDFLinuxVM.git
 cd PDFLinuxVM
 
@@ -52,7 +53,7 @@ To test locally, run:
 cd out
 python3 -m http.server
 Then open http://localhost:8000/linux.pdf in a Chromium browser.
-
+```
 Output
 All PDF and emulator files are exported to the out/ folder after a successful build. You can share or embed the linux.pdf file wherever needed.
 
@@ -69,11 +70,10 @@ Reworked and adapted into PDFLinuxVM by Priti Singh
 
 The RISC-V emulator is forked from [TinyEMU](https://bellard.org/tinyemu/), which was written by [Fabrice Bellard](https://bellard.org/).
 
-## License
+License
 
 This repository is licensed under the GNU GPL v3.
 
-```
 PDFLinuxVM - Run Linux inside a PDF file  
 Copyright (C) 2025 Priti Singh
 
