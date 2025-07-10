@@ -2,8 +2,6 @@
 
 **PDFLinuxVM** is an experimental project that runs a full Linux operating system inside a PDF file using a lightweight RISC-V emulator written in C and compiled to JavaScript.
 
-**PDFLinuxVM** is an experimental project that runs a full Linux operating system inside a PDF file using a lightweight RISC-V emulator written in C and compiled to JavaScript.
-
 **[Click here to view the live PDF](https://pritisingh-09.github.io/PDFLinuxVM/PDFLinuxVM.pdf)** (works best in Chromium-based browsers)
 This PDF-based Linux environment can boot a real Linux kernel directly inside Chromium-based browsers with PDF viewer support for embedded JavaScript.
 
